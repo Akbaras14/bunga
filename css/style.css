@@ -43,8 +43,8 @@ body{
 }
 
 .tanaya{
-    font-size: 6rem;
-    font-weight: 900;
+    font-size: 4rem;
+    font-weight: 400;
 }
 .tanaya > span{
     animation: glow 2.5s ease-in-out infinite;
