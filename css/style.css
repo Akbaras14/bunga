@@ -93,6 +93,12 @@ body{
         font-weight: 200;
         text-align: center;
     }
+    .tanaya{
+        display: block;
+        font-size: 3rem;
+        font-weight: 200;
+        text-align: center;
+    }
     .description{
         font-size: 1rem;
     }
