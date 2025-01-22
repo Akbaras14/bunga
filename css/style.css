@@ -42,11 +42,11 @@ body{
     animation-delay: .8s;
 }
 
-.nila{
+.tanaya{
     font-size: 6rem;
     font-weight: 900;
 }
-.nila > span{
+.tanaya > span{
     animation: glow 2.5s ease-in-out infinite;
 }
 @keyframes glow{
@@ -59,16 +59,16 @@ body{
         text-shadow: none;
     }
 }
-.nila > span:nth-child(2){
+.tanaya > span:nth-child(2){
     animation-delay: .2s ;
 }
-.nila > span:nth-child(3){
+.tanaya > span:nth-child(3){
     animation-delay: .4s ;
 }
-.nila > span:nth-child(4){
+.tanaya > span:nth-child(4){
     animation-delay: .6s;
 }
-.nila > span:nth-child(5){
+.tanaya > span:nth-child(5){
     animation-delay: .8s;
 }
 
